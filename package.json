@@ -1,0 +1,23 @@
+{
+  "name": "newsbrowser",
+  "version": "1.0.0",
+  "description": "Make it easy to discover the loads of media that the internet has to offer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaggers/NewsBrowser.git"
+  },
+  "keywords": [
+    "news",
+    "research"
+  ],
+  "author": "Cameron Lenartowich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaggers/NewsBrowser/issues"
+  },
+  "homepage": "https://github.com/shaggers/NewsBrowser#readme"
+}
